@@ -1,0 +1,26 @@
+body{
+    margin: 100px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+.main{
+    border: 6px double rgb(245, 4, 4);
+    border-radius: 15px;
+    margin:o auto;
+    padding: 20px;
+    background: rgb(87, 3, 143);
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+}
+
+.image{
+    width: 150px;
+    border-radius: 30px;
+    border-style:solid;
+}
+
+.text{
+    color: rgb(3, 252, 239);
+}
